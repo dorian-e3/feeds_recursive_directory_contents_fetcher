@@ -1,0 +1,7 @@
+name: 'Feeds Recursive Directory Contents Fetcher'
+type: module
+description: 'Provides a Feeds Fetcher that will recursively list the contents of a local directory.'
+core: 8.x
+package: Feeds
+dependencies:
+  - feeds
